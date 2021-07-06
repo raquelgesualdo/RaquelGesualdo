@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo! 👋
 
-Coordenadora Financeira | Entusiasta Desenvolvimento Fullstack
+Desenvolvimento Fullstack
 
 - 📚 Atualmente estudando HTML5, CSS3, JavaScript, MySQL.
 - 👀 Interessada em Java, Spring Boot, Angular.
